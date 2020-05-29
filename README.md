@@ -1,2 +1,2 @@
 # Social-Network-Website
-This is the one of my first ever projects in Computer Science
+These are my projects contributing to Computer Science.
